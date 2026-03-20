@@ -3,7 +3,7 @@ Task-Specialized Distillation</h1>
 
 <p align="center">
   <a href="https://intellindust-ai-lab.github.io/projects/EdgeCrafter/"><img src="https://img.shields.io/badge/Webpage-EdgeCrafter-blue.svg" alt="Webpage"></a>
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-EdgeCrafter-orange.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2603.18739"><img src="https://img.shields.io/badge/arXiv-EdgeCrafter-orange.svg" alt="arXiv"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License"></a>
 
 </p>
@@ -12,7 +12,7 @@ Task-Specialized Distillation</h1>
         <a href="https://capsule2077.github.io/">Longfei Liu <sup>*</sup><sup>‡</sup></a>&nbsp;
         <a >Yongjie Hou <sup>*</sup></a>&nbsp;
         <a >Yang Li <sup>*</sup></a>&nbsp;
-        <a >Qirui Wang <sup>*</sup></a>&nbsp;
+        <a href='https://qiruiwang0728.github.io/homepage/'>Qirui Wang <sup>*</sup></a>&nbsp;
         <a >Youyang Sha</a>&nbsp; </br>
         <a >Yongjun Yu</a>&nbsp;
         <a >Yinzhi Wang</a>&nbsp;
